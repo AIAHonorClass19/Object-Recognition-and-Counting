@@ -10,3 +10,6 @@ MVGigE.dll filter=lfs diff=lfs merge=lfs -text
 .vs/demo/v17/ipch/254459c358a60564.ipch filter=lfs diff=lfs merge=lfs -text
 .vs/demo/v17/ipch/fab9933f355661b3.ipch filter=lfs diff=lfs merge=lfs -text
 .vs/demo/v17/ipch/e24c998da632a08c.ipch filter=lfs diff=lfs merge=lfs -text
+.vs/demo/v15/ipch/AutoPCH/d791bcf66713d93a/PCH.ipch filter=lfs diff=lfs merge=lfs -text
+.vs/demo/v16/ipch/254459c358a60564.ipch filter=lfs diff=lfs merge=lfs -text
+.vs/demo/v16/ipch/e24c998da632a08c.ipch filter=lfs diff=lfs merge=lfs -text
